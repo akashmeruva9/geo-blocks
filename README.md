@@ -12,10 +12,6 @@ But the excitement doesn't end there. With GeoBlocks, spontaneous crypto transac
 
 Embark on this thrilling journey, immerse yourself in Web3 gaming, and let GeoBlocks redefine your reality with its innovative features and boundless possibilities.
 
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/Blank%20diagram.png"  >
-</p>
-
 ## Features
 
 - Real-world exploration-based gameplay with geo-location capabilities.
@@ -38,27 +34,54 @@ Embark on this thrilling journey, immerse yourself in Web3 gaming, and let GeoBl
 https://scan.test.btcs.network/address/0xc8BccbEffD1179A09e01F53b4D9f80928FA268c1
   
 ## Demo & Photos
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/1.jpg" width=300 height=600 >
-</p>
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/2.jpg"  width=300 height=600>
-</p>
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/3.jpg"  width=300 height=600>
-</p>
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/4.jpg" width=300 height=600 >
-</p>
-<p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/5.jpg" width=300 height=600 >
-</p>
 
 
+![WhatsApp Image 2024-04-09 at 18 07 57_5cdc3823]()
 
-![WhatsApp Image 2024-03-31 at 9 52 34 AM](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/7d3cad38-6a9c-4b2b-a7f4-0f31a07c119a)
-![WhatsApp Image 2024-03-31 at 9 52 14 AM](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/0f61e291-e19d-4afd-9f48-9939af669aab)
-![WhatsApp Image 2024-03-31 at 9 52 23 AM](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/2d156db8-df10-44aa-bb9f-434d4d333503)
-![WhatsApp Image 2024-03-31 at 8 42 18 AM](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/7b4d48e6-5316-40af-83f4-68aea8d5420f)
-![WhatsApp Image 2024-03-31 at 8 42 18 AM (1)](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/a71d64cf-cdab-4370-9566-6c4efdcd2d13)
-![WhatsApp Image 2024-03-31 at 8 42 18 AM (5)](https://github.com/sakkurthi-sashank/geo-blocks/assets/126908332/3e514bc2-77a1-410f-9ae8-89980a4f3f53)
+
+![IMG_20240408_19322261 jpeg]()![Screenshot_2024-03-31-08-11-21-85_bc7113505b6828e758813a82959d8557]()
+
+![IMG_20240408_19325246 jpeg]()
+![IMG_20240408_19331136 jpeg]()
+![IMG_20240408_19322591 jpeg]()
+
+<table style="border: 1px solid black;">
+            <tr>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/b7c57557-de97-42ba-bb38-9feaa2b07789"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/8aeec7c9-8cd3-4a48-8067-0536bfa70130"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/098fb505-161e-4823-8801-10b64a7bedc6"   width="200">
+                </td>
+            </tr>
+</table>
+
+<table style="border: 1px solid black;">
+            <tr>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/9c3cc5d6-2b51-4c93-a826-d7701f17f7ea"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/54cccadc-6026-434f-a9e1-550f8a991355"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/2f288e4f-52cb-478f-a979-61e8bfb5c0ca"   width="200">
+                </td>
+            </tr>
+</table>
+
+
+<table style="border: 1px solid black;">
+            <tr>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://user-images.githubusercontent.com/106223361/223804759-67d3900c-311d-43b0-8cca-345a8a12ac76.jpg"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://user-images.githubusercontent.com/106223361/223804764-c4aff5bd-3b78-4d63-af61-af596c6f63e5.jpg"   width="200">
+                </td>
+                <td  style="border: 1px solid black ;">
+                    <img src="https://user-images.githubusercontent.com/106223361/223804766-19f3a425-47c5-4552-a74e-02daabfa2d94.jpg"   width="200">
+                </td>
