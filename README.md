@@ -36,15 +36,6 @@ https://scan.test.btcs.network/address/0xc8BccbEffD1179A09e01F53b4D9f80928FA268c
 ## Demo & Photos
 
 
-![WhatsApp Image 2024-04-09 at 18 07 57_5cdc3823]()
-
-
-![IMG_20240408_19322261 jpeg]()![Screenshot_2024-03-31-08-11-21-85_bc7113505b6828e758813a82959d8557]()
-
-![IMG_20240408_19325246 jpeg]()
-![IMG_20240408_19331136 jpeg]()
-![IMG_20240408_19322591 jpeg]()
-
 <table style="border: 1px solid black;">
             <tr>
                 <td  style="border: 1px solid black ;">
@@ -68,20 +59,8 @@ https://scan.test.btcs.network/address/0xc8BccbEffD1179A09e01F53b4D9f80928FA268c
                     <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/54cccadc-6026-434f-a9e1-550f8a991355"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/2f288e4f-52cb-478f-a979-61e8bfb5c0ca"   width="200">
+                    <img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/2f288e4f-52cb-478f-a979-61e8bfb5c0ca"   width="400">
                 </td>
             </tr>
 </table>
 
-
-<table style="border: 1px solid black;">
-            <tr>
-                <td  style="border: 1px solid black ;">
-                    <img src="https://user-images.githubusercontent.com/106223361/223804759-67d3900c-311d-43b0-8cca-345a8a12ac76.jpg"   width="200">
-                </td>
-                <td  style="border: 1px solid black ;">
-                    <img src="https://user-images.githubusercontent.com/106223361/223804764-c4aff5bd-3b78-4d63-af61-af596c6f63e5.jpg"   width="200">
-                </td>
-                <td  style="border: 1px solid black ;">
-                    <img src="https://user-images.githubusercontent.com/106223361/223804766-19f3a425-47c5-4552-a74e-02daabfa2d94.jpg"   width="200">
-                </td>
