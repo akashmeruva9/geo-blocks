@@ -1,6 +1,6 @@
 # GEOBLOCKS : Web3 Gamified.
 <p align="center">
-<img src="https://github.com/sathwikcodes/geo-blocks/blob/main/logo.jpg"width=300 height=300  >
+<img src="https://github.com/akashmeruva9/geo-blocks/assets/106223361/48a60396-b0c7-4a23-a5e0-f3c38ed9540f"width=300 height=300  >
 </p>
 Introducing GeoBlocks, a groundbreaking application that revolutionizes the Web3 experience, turning exploration into an immersive adventure.
 
